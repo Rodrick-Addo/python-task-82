@@ -1,4 +1,4 @@
-# Contributing to FlyPython
+# Contributors  to FlyPython
 
 FlyPython maintains bilingual Python engineering guides, task playbooks,
 runnable examples, templates, and a reviewed source catalog used by
@@ -8,6 +8,7 @@ General Python questions belong in
 [GitHub Discussions](https://github.com/flypythoncom/python/discussions).
 
 Read the [curation policy](docs/CURATION_POLICY.md) before contributing.
+git commit -m "Add rodrick addo  to Contributors list"
 
 ## Permissions
 
