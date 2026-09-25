@@ -1,0 +1,6 @@
+The program is to perform these things, but since there are error in the code , ity can't compile and run in orderto perform these things :
+
+The program asks the user for five pieces of information: business name, business idea, starting 
+budget, operating location, and target customers. It checks whether the business name or 
+business idea is `exit` and attempts to stop the program. It then begins printing a heading for a 
+business plan. The supplied code ends before the business-plan output is completed.
