@@ -1,0 +1,15 @@
+# Basic information 
+business_name = input(" What is your business name? ") 
+if business_name.lower() == "exit":  
+return 
+idea = input(" What business do you want to start? ")  
+if idea.lower() == "exit": 
+return 
+budget = input(" What is your starting budget (₹)? ")  
+location = input(" Where will you operate? ") 
+target_customer = input(" Who are your target customers? ") 
+# Business plan 
+print("\n" + "=" * 60) 
+print(" YOUR BUSINESS PLAN")  
+print("=" * 60)  
+print(f”””
